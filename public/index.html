@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TreeWeave · visual project management</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Roboto:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='4' fill='%237c5cff'/><path d='M3 8h10M8 3v10' stroke='white' stroke-width='1.5'/></svg>"
+    />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark"></span>
+        <div>
+          <h1>TreeWeave</h1>
+          <p class="tagline">your time commitment, woven into one tree</p>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <span id="commitment-stat" class="stat"></span>
+        <span id="storage-stat" class="stat storage-stat" title="Data is saved on the local server">Server</span>
+        <button id="add-area-btn" class="btn ghost">+ Area</button>
+        <button id="global-view-btn" class="btn ghost" title="All tasks across projects">Global View</button>
+        <button id="due-today-btn" class="btn ghost" title="Tasks due today">Due Today</button>
+        <button id="eisenhower-btn" class="btn ghost" title="Priority vs time matrix">Matrix</button>
+        <button id="recycle-btn" class="btn ghost icon-btn" title="Recycle bin">
+          <span id="recycle-icon" aria-hidden="true">🗑</span>
+          <span id="recycle-count" class="recycle-count hidden">0</span>
+        </button>
+        <button id="export-btn" class="btn ghost" title="Download JSON backup">Export</button>
+        <button id="import-btn" class="btn ghost" title="Import from JSON file">Import</button>
+        <input id="import-file" type="file" accept="application/json,.json" hidden />
+        <label class="theme-picker" title="Appearance">
+          <span id="theme-icon" class="theme-picker-icon" aria-hidden="true">☾</span>
+          <select id="theme-select" class="theme-select" aria-label="Theme">
+            <option value="dark">Dark</option>
+            <option value="light">Light</option>
+            <option value="material">Material</option>
+            <option value="cyberpunk">Cyberpunk</option>
+            <option value="metallic">Metallic</option>
+            <option value="win98">Windows 98</option>
+          </select>
+        </label>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section id="hierarchy-panel" class="hierarchy-panel">
+        <div class="panel-head">
+          <div class="panel-head-left">
+            <nav id="tree-crumbs" class="tree-crumbs"></nav>
+            <p id="hierarchy-hint" class="hint">
+              Click a branch to expand it · double-click a project to open ·
+              double-click a name to rename
+            </p>
+          </div>
+          <div id="node-actions" class="node-actions hidden"></div>
+        </div>
+        <div id="hierarchy-scroll" class="hierarchy-scroll">
+          <svg id="hierarchy-svg" xmlns="http://www.w3.org/2000/svg"></svg>
+        </div>
+      </section>
+
+      <section id="global-panel" class="global-panel hidden">
+        <div id="global-view-root"></div>
+      </section>
+
+      <!-- Inline project pane. Hidden until a project is opened. -->
+      <aside id="pane-overlay" class="pane-slot hidden"></aside>
+    </main>
+
+    <!-- Floating SVG layer for in-pane connectors is created dynamically -->
+
+    <script type="module" src="/js/main.js"></script>
+  </body>
+</html>

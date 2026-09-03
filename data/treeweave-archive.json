@@ -1,0 +1,66 @@
+{
+  "format": "treeweave-archive",
+  "version": 1,
+  "entries": [
+    {
+      "archivedAt": "2026-09-02T21:15:12.015Z",
+      "reason": "expired",
+      "trashId": "trash-mssozyv5-28",
+      "deletedAt": "2026-08-14T08:35:57.377Z",
+      "projectId": "p-mspk7fqg-38",
+      "projectName": "Cardiff",
+      "note": {
+        "id": "note-mssozxva-27",
+        "text": "",
+        "color": "#ffe066",
+        "x": 448,
+        "y": 95,
+        "due": "",
+        "urgency": 1,
+        "bucket": null,
+        "assignee": "",
+        "priority": 5
+      }
+    },
+    {
+      "archivedAt": "2026-09-02T21:15:12.015Z",
+      "reason": "expired",
+      "trashId": "trash-mssc5yha-28",
+      "deletedAt": "2026-08-14T02:36:41.806Z",
+      "projectId": "p-mspjv0ci-21",
+      "projectName": "NZCSC26",
+      "note": {
+        "id": "note-mssc5uqz-27",
+        "text": "",
+        "color": "#ffe066",
+        "x": 690,
+        "y": 59.5,
+        "due": "",
+        "urgency": 1,
+        "bucket": null,
+        "assignee": "",
+        "priority": 5
+      }
+    },
+    {
+      "archivedAt": "2026-09-02T21:15:12.015Z",
+      "reason": "expired",
+      "trashId": "trash-msqx3jhv-28",
+      "deletedAt": "2026-08-13T02:47:08.659Z",
+      "projectId": "p-mspjv0ci-22",
+      "projectName": "MDM2027",
+      "note": {
+        "id": "note-msqx3ifx-27",
+        "text": "",
+        "color": "#ffe066",
+        "x": 287,
+        "y": 314,
+        "due": "",
+        "urgency": 1,
+        "bucket": null,
+        "assignee": "",
+        "priority": 5
+      }
+    }
+  ]
+}

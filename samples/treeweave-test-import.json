@@ -1,0 +1,1568 @@
+{
+  "format": "treeweave",
+  "version": 1,
+  "exportedAt": "2026-08-18T00:00:00.000Z",
+  "data": {
+    "root": {
+      "id": "root",
+      "name": "Me",
+      "children": [
+        {
+          "id": "g-sample-052",
+          "name": "Research",
+          "children": [
+            {
+              "id": "g-sample-015",
+              "name": "R1",
+              "children": [
+                {
+                  "id": "p-sample-001",
+                  "name": "student1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-002",
+                      "text": "Review comments\nNeed a first pass before Friday.",
+                      "color": "#8fd3ff",
+                      "x": 455,
+                      "y": 35,
+                      "due": "2026-08-14",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Alex",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-003",
+                      "text": "Review comments\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#b693ff",
+                      "x": 254,
+                      "y": 47,
+                      "due": "",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Sam",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-004",
+                      "text": "Proofread draft\nWaiting on feedback from last week.",
+                      "color": "#ffe066",
+                      "x": 262,
+                      "y": 33,
+                      "due": "2026-08-29",
+                      "urgency": 2,
+                      "bucket": "doing",
+                      "assignee": "Sam",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-005",
+                      "text": "Review comments\nNeed a first pass before Friday.",
+                      "color": "#c9d36b",
+                      "x": 451,
+                      "y": 249,
+                      "due": "2026-08-24",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Chris",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-006",
+                      "text": "Sketch plan\nKeep this short and concrete.",
+                      "color": "#ff9f7a",
+                      "x": 255,
+                      "y": 247,
+                      "due": "2026-08-31",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Alex",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-007",
+                      "text": "Set next milestone\nWaiting on feedback from last week.",
+                      "color": "#ff9f7a",
+                      "x": 265,
+                      "y": 245,
+                      "due": "2026-09-01",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "",
+                      "priority": 3
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-008",
+                  "name": "student2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-009",
+                      "text": "Write summary\nWaiting on feedback from last week.",
+                      "color": "#b693ff",
+                      "x": 469,
+                      "y": 36,
+                      "due": "2026-08-12",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Sam",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-010",
+                      "text": "Prepare slides\nWaiting on feedback from last week.",
+                      "color": "#b693ff",
+                      "x": 259,
+                      "y": 38,
+                      "due": "2026-08-11",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Jordan",
+                      "priority": 4
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-011",
+                  "name": "student3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-012",
+                      "text": "Review comments\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#9be7c4",
+                      "x": 454,
+                      "y": 48,
+                      "due": "2026-09-06",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Sam",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-013",
+                      "text": "Share notes\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#8fd3ff",
+                      "x": 261,
+                      "y": 46,
+                      "due": "2026-09-02",
+                      "urgency": 2,
+                      "bucket": "doing",
+                      "assignee": "Sam",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-014",
+                      "text": "Check references\nNeed a first pass before Friday.",
+                      "color": "#ffe066",
+                      "x": 265,
+                      "y": 31,
+                      "due": "2026-08-18",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "Priya",
+                      "priority": 4
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            },
+            {
+              "id": "g-sample-035",
+              "name": "R2",
+              "children": [
+                {
+                  "id": "p-sample-016",
+                  "name": "student1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-017",
+                      "text": "Check references\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#8fd3ff",
+                      "x": 465,
+                      "y": 28,
+                      "due": "2026-08-15",
+                      "urgency": 2,
+                      "bucket": "done",
+                      "assignee": "Alex",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-018",
+                      "text": "Prepare slides\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ffd6a5",
+                      "x": 238,
+                      "y": 51,
+                      "due": "2026-08-24",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-019",
+                      "text": "Triage inbox",
+                      "color": "#b693ff",
+                      "x": 242,
+                      "y": 39,
+                      "due": "2026-08-08",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "Alex",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-020",
+                      "text": "Sketch plan\nWaiting on feedback from last week.",
+                      "color": "#8fd3ff",
+                      "x": 455,
+                      "y": 239,
+                      "due": "2026-08-13",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Alex",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-021",
+                      "text": "Set next milestone\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ff8fb1",
+                      "x": 259,
+                      "y": 253,
+                      "due": "2026-08-18",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "Sam",
+                      "priority": 5
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-022",
+                  "name": "student2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-023",
+                      "text": "Share notes",
+                      "color": "#b693ff",
+                      "x": 470,
+                      "y": 37,
+                      "due": "2026-08-31",
+                      "urgency": 3,
+                      "bucket": null,
+                      "assignee": "Alex",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-024",
+                      "text": "Book meeting\nNeed a first pass before Friday.",
+                      "color": "#9be7c4",
+                      "x": 238,
+                      "y": 46,
+                      "due": "2026-08-22",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-025",
+                      "text": "Book meeting\nNeed a first pass before Friday.",
+                      "color": "#ffe066",
+                      "x": 265,
+                      "y": 38,
+                      "due": "",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-026",
+                      "text": "Book meeting\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#ff8fb1",
+                      "x": 471,
+                      "y": 256,
+                      "due": "2026-08-23",
+                      "urgency": 3,
+                      "bucket": null,
+                      "assignee": "Sam",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-027",
+                      "text": "Review comments",
+                      "color": "#c9d36b",
+                      "x": 249,
+                      "y": 251,
+                      "due": "2026-08-11",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Priya",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-028",
+                      "text": "Set next milestone\nPing if this slips past the due date.",
+                      "color": "#ff9f7a",
+                      "x": 245,
+                      "y": 244,
+                      "due": "2026-09-05",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Sam",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-029",
+                      "text": "Check references\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ff9f7a",
+                      "x": 462,
+                      "y": 465,
+                      "due": "",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-030",
+                  "name": "student3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-031",
+                      "text": "Check references\nKeep this short and concrete.",
+                      "color": "#b693ff",
+                      "x": 475,
+                      "y": 40,
+                      "due": "2026-08-18",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "Priya",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-032",
+                      "text": "Sketch plan\nPing if this slips past the due date.",
+                      "color": "#ffd6a5",
+                      "x": 247,
+                      "y": 41,
+                      "due": "2026-09-08",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Jordan",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-033",
+                      "text": "Draft outline\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#ffe066",
+                      "x": 261,
+                      "y": 38,
+                      "due": "",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Alex",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-034",
+                      "text": "Review comments\nPing if this slips past the due date.",
+                      "color": "#ff8fb1",
+                      "x": 450,
+                      "y": 257,
+                      "due": "",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Alex",
+                      "priority": 5
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            },
+            {
+              "id": "g-sample-051",
+              "name": "R3",
+              "children": [
+                {
+                  "id": "p-sample-036",
+                  "name": "student1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-037",
+                      "text": "Proofread draft\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#ffe066",
+                      "x": 467,
+                      "y": 30,
+                      "due": "2026-08-28",
+                      "urgency": 2,
+                      "bucket": "doing",
+                      "assignee": "",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-038",
+                      "text": "Book meeting\nWaiting on feedback from last week.",
+                      "color": "#c9d36b",
+                      "x": 242,
+                      "y": 49,
+                      "due": "2026-09-06",
+                      "urgency": 2,
+                      "bucket": "todo",
+                      "assignee": "Alex",
+                      "priority": 4
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-039",
+                  "name": "student2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-040",
+                      "text": "Proofread draft\nNeed a first pass before Friday.",
+                      "color": "#ff9f7a",
+                      "x": 465,
+                      "y": 34,
+                      "due": "2026-08-16",
+                      "urgency": 2,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-041",
+                      "text": "Collect data\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ffd6a5",
+                      "x": 264,
+                      "y": 45,
+                      "due": "2026-08-08",
+                      "urgency": 2,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-042",
+                      "text": "Review comments\nNeed a first pass before Friday.",
+                      "color": "#ff8fb1",
+                      "x": 246,
+                      "y": 37,
+                      "due": "2026-08-29",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Chris",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-043",
+                      "text": "Collect data\nPing if this slips past the due date.",
+                      "color": "#ffe066",
+                      "x": 450,
+                      "y": 258,
+                      "due": "2026-08-25",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Jordan",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-044",
+                      "text": "Confirm venue\nWaiting on feedback from last week.",
+                      "color": "#ff8fb1",
+                      "x": 261,
+                      "y": 252,
+                      "due": "2026-09-04",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Alex",
+                      "priority": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-045",
+                  "name": "student3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-046",
+                      "text": "Draft outline\nPing if this slips past the due date.",
+                      "color": "#9be7c4",
+                      "x": 466,
+                      "y": 45,
+                      "due": "2026-08-16",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Jordan",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-047",
+                      "text": "Sketch plan\nWaiting on feedback from last week.",
+                      "color": "#b693ff",
+                      "x": 259,
+                      "y": 35,
+                      "due": "2026-08-30",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Sam",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-048",
+                      "text": "Set next milestone\nPing if this slips past the due date.",
+                      "color": "#ff8fb1",
+                      "x": 266,
+                      "y": 41,
+                      "due": "",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-049",
+                      "text": "Collect data\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ff9f7a",
+                      "x": 460,
+                      "y": 239,
+                      "due": "2026-08-22",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Jordan",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-050",
+                      "text": "Triage inbox\nPing if this slips past the due date.",
+                      "color": "#b693ff",
+                      "x": 245,
+                      "y": 238,
+                      "due": "2026-09-02",
+                      "urgency": 2,
+                      "bucket": "done",
+                      "assignee": "Alex",
+                      "priority": 3
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "g-sample-100",
+          "name": "Teaching",
+          "children": [
+            {
+              "id": "g-sample-072",
+              "name": "T1",
+              "children": [
+                {
+                  "id": "p-sample-053",
+                  "name": "task1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-054",
+                      "text": "Confirm venue\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#c9d36b",
+                      "x": 469,
+                      "y": 45,
+                      "due": "2026-08-09",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Sam",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-055",
+                      "text": "Collect data\nNeed a first pass before Friday.",
+                      "color": "#ff9f7a",
+                      "x": 257,
+                      "y": 41,
+                      "due": "2026-08-28",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "Priya",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-056",
+                      "text": "Book meeting\nWaiting on feedback from last week.",
+                      "color": "#ffe066",
+                      "x": 260,
+                      "y": 41,
+                      "due": "",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Priya",
+                      "priority": 1
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-057",
+                  "name": "task2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-058",
+                      "text": "Sketch plan\nWaiting on feedback from last week.",
+                      "color": "#9be7c4",
+                      "x": 469,
+                      "y": 31,
+                      "due": "2026-08-27",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "Jordan",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-059",
+                      "text": "Share notes\nWaiting on feedback from last week.",
+                      "color": "#ff8fb1",
+                      "x": 244,
+                      "y": 41,
+                      "due": "2026-09-01",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Priya",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-060",
+                      "text": "Triage inbox\nNeed a first pass before Friday.",
+                      "color": "#8fd3ff",
+                      "x": 247,
+                      "y": 34,
+                      "due": "2026-08-28",
+                      "urgency": 3,
+                      "bucket": null,
+                      "assignee": "Priya",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-061",
+                      "text": "Update spreadsheet\nKeep this short and concrete.",
+                      "color": "#ff8fb1",
+                      "x": 469,
+                      "y": 240,
+                      "due": "2026-08-29",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-062",
+                      "text": "Book meeting\nPing if this slips past the due date.",
+                      "color": "#b693ff",
+                      "x": 242,
+                      "y": 238,
+                      "due": "",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "Priya",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-063",
+                      "text": "Sketch plan",
+                      "color": "#b693ff",
+                      "x": 260,
+                      "y": 260,
+                      "due": "2026-09-02",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "",
+                      "priority": 1
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-064",
+                  "name": "task3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-065",
+                      "text": "Triage inbox\nPing if this slips past the due date.",
+                      "color": "#ff9f7a",
+                      "x": 472,
+                      "y": 41,
+                      "due": "2026-09-06",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Alex",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-066",
+                      "text": "Send follow-up\nPing if this slips past the due date.",
+                      "color": "#ffd6a5",
+                      "x": 259,
+                      "y": 44,
+                      "due": "2026-08-28",
+                      "urgency": 3,
+                      "bucket": null,
+                      "assignee": "Chris",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-067",
+                      "text": "Sketch plan\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ffd6a5",
+                      "x": 252,
+                      "y": 36,
+                      "due": "2026-08-25",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Jordan",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-068",
+                      "text": "Review comments",
+                      "color": "#8fd3ff",
+                      "x": 455,
+                      "y": 246,
+                      "due": "2026-08-13",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Sam",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-069",
+                      "text": "Share notes\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#b693ff",
+                      "x": 240,
+                      "y": 251,
+                      "due": "2026-09-06",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-070",
+                      "text": "Prepare slides\nPing if this slips past the due date.",
+                      "color": "#ffe066",
+                      "x": 265,
+                      "y": 262,
+                      "due": "2026-09-07",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Jordan",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-071",
+                      "text": "Triage inbox\nPing if this slips past the due date.",
+                      "color": "#c9d36b",
+                      "x": 465,
+                      "y": 471,
+                      "due": "2026-08-22",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Jordan",
+                      "priority": 4
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            },
+            {
+              "id": "g-sample-089",
+              "name": "T2",
+              "children": [
+                {
+                  "id": "p-sample-073",
+                  "name": "task1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-074",
+                      "text": "Draft outline\nKeep this short and concrete.",
+                      "color": "#9be7c4",
+                      "x": 469,
+                      "y": 49,
+                      "due": "2026-08-18",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Chris",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-075",
+                      "text": "Draft outline\nKeep this short and concrete.",
+                      "color": "#ffe066",
+                      "x": 240,
+                      "y": 48,
+                      "due": "2026-09-06",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Jordan",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-076",
+                      "text": "Write summary\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ffd6a5",
+                      "x": 248,
+                      "y": 38,
+                      "due": "2026-09-01",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "Jordan",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-077",
+                      "text": "Check references\nNeed a first pass before Friday.",
+                      "color": "#ffe066",
+                      "x": 478,
+                      "y": 249,
+                      "due": "2026-08-12",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-078",
+                  "name": "task2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-079",
+                      "text": "Draft outline\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#ff8fb1",
+                      "x": 455,
+                      "y": 32,
+                      "due": "2026-08-15",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-080",
+                      "text": "Set next milestone\nWaiting on feedback from last week.",
+                      "color": "#ff8fb1",
+                      "x": 257,
+                      "y": 47,
+                      "due": "2026-08-15",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Alex",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-081",
+                      "text": "Draft outline\nWaiting on feedback from last week.",
+                      "color": "#c9d36b",
+                      "x": 250,
+                      "y": 50,
+                      "due": "2026-08-23",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-082",
+                      "text": "Set next milestone\nNeed a first pass before Friday.",
+                      "color": "#ffe066",
+                      "x": 459,
+                      "y": 255,
+                      "due": "2026-08-31",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Alex",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-083",
+                      "text": "Triage inbox\nKeep this short and concrete.",
+                      "color": "#ff9f7a",
+                      "x": 251,
+                      "y": 249,
+                      "due": "2026-09-06",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Sam",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-084",
+                      "text": "Confirm venue\nWaiting on feedback from last week.",
+                      "color": "#ffd6a5",
+                      "x": 252,
+                      "y": 251,
+                      "due": "2026-08-25",
+                      "urgency": 2,
+                      "bucket": "doing",
+                      "assignee": "Alex",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-085",
+                      "text": "Sketch plan\nKeep this short and concrete.",
+                      "color": "#b693ff",
+                      "x": 472,
+                      "y": 462,
+                      "due": "2026-09-01",
+                      "urgency": 2,
+                      "bucket": "todo",
+                      "assignee": "Priya",
+                      "priority": 3
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-086",
+                  "name": "task3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-087",
+                      "text": "Check references\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#9be7c4",
+                      "x": 473,
+                      "y": 36,
+                      "due": "2026-08-25",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Alex",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-088",
+                      "text": "Share notes\nKeep this short and concrete.",
+                      "color": "#ffd6a5",
+                      "x": 255,
+                      "y": 52,
+                      "due": "2026-09-07",
+                      "urgency": 3,
+                      "bucket": null,
+                      "assignee": "Alex",
+                      "priority": 1
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            },
+            {
+              "id": "g-sample-099",
+              "name": "T3",
+              "children": [
+                {
+                  "id": "p-sample-090",
+                  "name": "task1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-091",
+                      "text": "Book meeting\nKeep this short and concrete.",
+                      "color": "#b693ff",
+                      "x": 457,
+                      "y": 49,
+                      "due": "2026-09-07",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-092",
+                      "text": "Write summary\nWaiting on feedback from last week.",
+                      "color": "#ffd6a5",
+                      "x": 246,
+                      "y": 37,
+                      "due": "2026-08-15",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Alex",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-093",
+                      "text": "Set next milestone",
+                      "color": "#ff8fb1",
+                      "x": 244,
+                      "y": 34,
+                      "due": "2026-08-25",
+                      "urgency": 2,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 3
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-094",
+                  "name": "task2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-095",
+                      "text": "Write summary\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#8fd3ff",
+                      "x": 448,
+                      "y": 50,
+                      "due": "2026-08-25",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Chris",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-096",
+                      "text": "Share notes\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ffd6a5",
+                      "x": 241,
+                      "y": 28,
+                      "due": "2026-09-07",
+                      "urgency": 3,
+                      "bucket": null,
+                      "assignee": "Jordan",
+                      "priority": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-097",
+                  "name": "task3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-098",
+                      "text": "Collect data\nPing if this slips past the due date.",
+                      "color": "#ffd6a5",
+                      "x": 451,
+                      "y": 30,
+                      "due": "2026-08-12",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Sam",
+                      "priority": 5
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "g-sample-144",
+          "name": "Admin",
+          "children": [
+            {
+              "id": "g-sample-111",
+              "name": "A1",
+              "children": [
+                {
+                  "id": "p-sample-101",
+                  "name": "task1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-102",
+                      "text": "Review comments\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ff9f7a",
+                      "x": 465,
+                      "y": 52,
+                      "due": "2026-08-22",
+                      "urgency": 3,
+                      "bucket": null,
+                      "assignee": "Priya",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-103",
+                      "text": "Triage inbox\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#c9d36b",
+                      "x": 247,
+                      "y": 46,
+                      "due": "2026-08-14",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Jordan",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-104",
+                      "text": "Send follow-up\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ff8fb1",
+                      "x": 255,
+                      "y": 30,
+                      "due": "2026-09-03",
+                      "urgency": 3,
+                      "bucket": null,
+                      "assignee": "Jordan",
+                      "priority": 1
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-105",
+                  "name": "task2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-106",
+                      "text": "Collect data",
+                      "color": "#8fd3ff",
+                      "x": 470,
+                      "y": 42,
+                      "due": "",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-107",
+                      "text": "Confirm venue\nPing if this slips past the due date.",
+                      "color": "#b693ff",
+                      "x": 251,
+                      "y": 31,
+                      "due": "2026-08-17",
+                      "urgency": 2,
+                      "bucket": "doing",
+                      "assignee": "Alex",
+                      "priority": 1
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-108",
+                  "name": "task3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-109",
+                      "text": "Set next milestone\nWaiting on feedback from last week.",
+                      "color": "#8fd3ff",
+                      "x": 462,
+                      "y": 31,
+                      "due": "2026-08-27",
+                      "urgency": 3,
+                      "bucket": "done",
+                      "assignee": "Chris",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-110",
+                      "text": "Check references\nKeep this short and concrete.",
+                      "color": "#ff9f7a",
+                      "x": 257,
+                      "y": 29,
+                      "due": "2026-08-28",
+                      "urgency": 2,
+                      "bucket": "todo",
+                      "assignee": "Alex",
+                      "priority": 2
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            },
+            {
+              "id": "g-sample-127",
+              "name": "A2",
+              "children": [
+                {
+                  "id": "p-sample-112",
+                  "name": "task1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-113",
+                      "text": "Triage inbox\nPing if this slips past the due date.",
+                      "color": "#ffe066",
+                      "x": 472,
+                      "y": 49,
+                      "due": "2026-08-10",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Chris",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-114",
+                      "text": "Sketch plan\nWaiting on feedback from last week.",
+                      "color": "#ff8fb1",
+                      "x": 256,
+                      "y": 41,
+                      "due": "2026-09-08",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "Jordan",
+                      "priority": 4
+                    },
+                    {
+                      "id": "note-sample-115",
+                      "text": "Write summary\nWaiting on feedback from last week.",
+                      "color": "#ff9f7a",
+                      "x": 265,
+                      "y": 33,
+                      "due": "2026-09-08",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "Chris",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-116",
+                      "text": "Check references\nNeed a first pass before Friday.",
+                      "color": "#9be7c4",
+                      "x": 456,
+                      "y": 248,
+                      "due": "",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-117",
+                      "text": "Check references\nKeep this short and concrete.",
+                      "color": "#ffe066",
+                      "x": 244,
+                      "y": 254,
+                      "due": "2026-09-08",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-118",
+                      "text": "Update spreadsheet\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#8fd3ff",
+                      "x": 252,
+                      "y": 260,
+                      "due": "2026-08-09",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Jordan",
+                      "priority": 5
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-119",
+                  "name": "task2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-120",
+                      "text": "Update spreadsheet\nKeep this short and concrete.",
+                      "color": "#ff9f7a",
+                      "x": 455,
+                      "y": 31,
+                      "due": "2026-08-15",
+                      "urgency": 1,
+                      "bucket": null,
+                      "assignee": "",
+                      "priority": 3
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-121",
+                  "name": "task3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-122",
+                      "text": "Share notes\nWaiting on feedback from last week.",
+                      "color": "#c9d36b",
+                      "x": 474,
+                      "y": 43,
+                      "due": "2026-08-23",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Priya",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-123",
+                      "text": "Sketch plan\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#ff8fb1",
+                      "x": 265,
+                      "y": 30,
+                      "due": "2026-09-03",
+                      "urgency": 2,
+                      "bucket": "done",
+                      "assignee": "Alex",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-124",
+                      "text": "Share notes\nWaiting on feedback from last week.",
+                      "color": "#ffd6a5",
+                      "x": 265,
+                      "y": 32,
+                      "due": "2026-09-07",
+                      "urgency": 2,
+                      "bucket": "done",
+                      "assignee": "Chris",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-125",
+                      "text": "Prepare slides\nKeep this short and concrete.",
+                      "color": "#9be7c4",
+                      "x": 475,
+                      "y": 244,
+                      "due": "2026-08-23",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Priya",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-126",
+                      "text": "Write summary",
+                      "color": "#ffd6a5",
+                      "x": 260,
+                      "y": 250,
+                      "due": "2026-08-17",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 5
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            },
+            {
+              "id": "g-sample-143",
+              "name": "A3",
+              "children": [
+                {
+                  "id": "p-sample-128",
+                  "name": "task1",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-129",
+                      "text": "Write summary\nPing if this slips past the due date.",
+                      "color": "#ff9f7a",
+                      "x": 475,
+                      "y": 42,
+                      "due": "",
+                      "urgency": 3,
+                      "bucket": "todo",
+                      "assignee": "",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-130",
+                      "text": "Prepare slides\nPing if this slips past the due date.",
+                      "color": "#ff8fb1",
+                      "x": 240,
+                      "y": 43,
+                      "due": "2026-08-24",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "",
+                      "priority": 1
+                    },
+                    {
+                      "id": "note-sample-131",
+                      "text": "Triage inbox\nWaiting on feedback from last week.",
+                      "color": "#c9d36b",
+                      "x": 268,
+                      "y": 38,
+                      "due": "2026-09-08",
+                      "urgency": 1,
+                      "bucket": "todo",
+                      "assignee": "Sam",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-132",
+                      "text": "Book meeting",
+                      "color": "#ff9f7a",
+                      "x": 461,
+                      "y": 241,
+                      "due": "2026-08-14",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-133",
+                      "text": "Sketch plan\nNeed a first pass before Friday.",
+                      "color": "#ffe066",
+                      "x": 248,
+                      "y": 239,
+                      "due": "2026-08-31",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Sam",
+                      "priority": 5
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-134",
+                  "name": "task2",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-135",
+                      "text": "Proofread draft",
+                      "color": "#ff8fb1",
+                      "x": 453,
+                      "y": 33,
+                      "due": "",
+                      "urgency": 3,
+                      "bucket": "doing",
+                      "assignee": "Priya",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-136",
+                      "text": "Send follow-up\n\u2022 Confirm scope\n\u2022 Flag blockers\n\u2022 Share with the group",
+                      "color": "#ffd6a5",
+                      "x": 258,
+                      "y": 36,
+                      "due": "2026-08-08",
+                      "urgency": 3,
+                      "bucket": "done",
+                      "assignee": "",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-137",
+                      "text": "Send follow-up\nNeed a first pass before Friday.",
+                      "color": "#ffd6a5",
+                      "x": 268,
+                      "y": 39,
+                      "due": "2026-08-27",
+                      "urgency": 3,
+                      "bucket": "done",
+                      "assignee": "Priya",
+                      "priority": 3
+                    },
+                    {
+                      "id": "note-sample-138",
+                      "text": "Book meeting\nKeep this short and concrete.",
+                      "color": "#ffd6a5",
+                      "x": 451,
+                      "y": 245,
+                      "due": "2026-08-30",
+                      "urgency": 2,
+                      "bucket": "done",
+                      "assignee": "Alex",
+                      "priority": 4
+                    }
+                  ]
+                },
+                {
+                  "id": "p-sample-139",
+                  "name": "task3",
+                  "children": [],
+                  "notes": [
+                    {
+                      "id": "note-sample-140",
+                      "text": "Draft outline\n\u2022 Gather files\n\u2022 Label versions\n\u2022 Archive extras",
+                      "color": "#ffe066",
+                      "x": 477,
+                      "y": 47,
+                      "due": "2026-08-26",
+                      "urgency": 1,
+                      "bucket": "done",
+                      "assignee": "Sam",
+                      "priority": 2
+                    },
+                    {
+                      "id": "note-sample-141",
+                      "text": "Proofread draft\nWaiting on feedback from last week.",
+                      "color": "#ff8fb1",
+                      "x": 258,
+                      "y": 31,
+                      "due": "2026-08-10",
+                      "urgency": 2,
+                      "bucket": null,
+                      "assignee": "Alex",
+                      "priority": 5
+                    },
+                    {
+                      "id": "note-sample-142",
+                      "text": "Write summary",
+                      "color": "#ff8fb1",
+                      "x": 240,
+                      "y": 37,
+                      "due": "2026-09-03",
+                      "urgency": 1,
+                      "bucket": "doing",
+                      "assignee": "Sam",
+                      "priority": 5
+                    }
+                  ]
+                }
+              ],
+              "notes": []
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    "ui": {
+      "selectedNodeId": null,
+      "openProjectId": null,
+      "expanded": [
+        "g-sample-052",
+        "g-sample-015",
+        "g-sample-035",
+        "g-sample-051",
+        "g-sample-100",
+        "g-sample-072",
+        "g-sample-089",
+        "g-sample-099",
+        "g-sample-144",
+        "g-sample-111",
+        "g-sample-127",
+        "g-sample-143"
+      ],
+      "paneView": "board",
+      "mainView": "tree"
+    },
+    "trash": []
+  }
+}
