@@ -80,6 +80,7 @@ Leaves with overdue active notes are highlighted (red ring / label) so risk is v
 ---
 
 ## 3. Projects and the right pane
+![projects](/screenshots/rightpane.png)
 
 Double-click a leaf project to open the **project pane** on the right.
 
@@ -188,6 +189,7 @@ Both use a sortable table: Task, Node, Priority, Due date, Status, Assigned to.
 ---
 
 ## 8. Eisenhower Matrix
+![matrix](/screenshots/matrix.png)
 
 Click **Matrix** in the header to open the Eisenhower view. Every **active** (non-done) task appears as a coloured dot.
 
