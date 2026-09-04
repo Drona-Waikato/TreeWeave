@@ -244,6 +244,7 @@ Permanently deleted items (manual delete, empty bin, or after 7 days) are append
 ---
 
 ## 10. Themes
+![themes](/screenshots/materialtheme.png)
 
 Use the theme picker in the header:
 
