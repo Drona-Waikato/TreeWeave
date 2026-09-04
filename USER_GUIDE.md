@@ -48,7 +48,7 @@ Data is stored locally and updates as you work. The header shows a **Server** st
 ---
 
 ## 2. The tree
-![tree](../screenshots/dendogram.png)
+![tree](/screenshots/dendogram.png)
 
 The left panel is a **dendrogram**: branches thicken toward the root based on how many projects they contain.
 
