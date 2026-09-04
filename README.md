@@ -98,7 +98,8 @@ treeweave/
 ├── samples/               Sample import JSON
 ├── dist/                  Built Mac app (after npm run dist)
 ├── README.md              This file
-└── USER_GUIDE.md          End-user documentation
+├── USER_GUIDE.md          End-user documentation
+└── PROMPTS.md 			   A (hopefullly complete) list of prompts used in the development
 ```
 
 ---
@@ -123,8 +124,6 @@ Use **Export** / **Import** in the header to download or restore a JSON backup.
 
 ```
 server.js              HTTP server + JSON API (shared by CLI and Mac app)
-electron/main.js       Electron shell (Mac .app)
 public/                UI (HTML, CSS, JS)
 data/treeweave.json    CLI-mode user data (created on first run)
-dist/                  Built Mac app (after npm run dist)
 ```
